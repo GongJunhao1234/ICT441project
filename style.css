@@ -1161,3 +1161,74 @@ a.link:link, a.link:visited {
   .imge{
 	  vertical-align: middle;
   }
+.form {
+	margin: 50px auto;
+	width: 70%;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	
+	}
+	
+	label {
+	display: inline-block;
+	width: 500px;
+	}
+	
+	input[type="text"], input[type="tel"], select, textarea {
+	width: 100%;
+	padding: 8px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+	margin-bottom: 16px;
+	font-size: 16px;
+	}
+	
+	input[type="submit"] {
+	background-color: #4c77af;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 12px 20px;
+	cursor: pointer;
+	font-size: 16px;
+	}
+	
+	input[type="submit"]:hover {
+	background-color: #4646ca;
+	}
+	
+	textarea {
+	resize: vertical;
+	}
+	
+	.error {
+	color: red;
+	font-size: 14px;
+	}
+	
+	button{
+	background-color: #529edb;
+	border: none;
+	color: white;
+	padding: 12px 28px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	border-radius: 5px;
+	cursor: pointer;
+	}
+	
+	button:hover {
+	background-color: #3e8e41;
+	}
+	
+	button {
+		display: block;
+		margin: 0 auto;
+		}
+.video{
+	margin-left: 600px;
+	margin-top:0px;
+}
