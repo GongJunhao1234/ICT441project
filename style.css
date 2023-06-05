@@ -1155,3 +1155,9 @@ a.link:link, a.link:visited {
     background-color: green;
     color: white;
   }
+ .banner{
+	  text-align: center;
+  }
+  .imge{
+	  vertical-align: middle;
+  }
